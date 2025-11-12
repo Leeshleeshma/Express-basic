@@ -1,0 +1,1 @@
+JSON, is a lightweight format for storing and transporting data, often used when data is sent from a server to a web page. The JSON format is syntactically identical to the code for creating JavaScript objects. JSON data is written as name/value pairs, just like JavaScript object properties. JSON objects are written inside curly braces. 
